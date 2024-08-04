@@ -1,3 +1,4 @@
+[
   {
     "name" : "黑木耳无广告",
     "api" : "https:\/\/json.heimuer.xyz\/api.php\/provide\/vod\/?ac=list"
@@ -114,3 +115,4 @@
     "name" : "飘零影院",
     "api" : "https:\/\/p2100.net\/api.php\/provide\/vod\/"
   }
+]
